@@ -41,8 +41,7 @@ using System.Windows.Forms;
 
 namespace Zeroit.Framework.UniversalControl.Editors
 {
-    //[DebuggerStepThrough]
-    //[ProvideProperty("BunifuFramework", typeof(Control))]
+    
     /// <summary>
     /// Class DragControl.
     /// </summary>
